@@ -1,0 +1,33 @@
+
+BlowOff:
+  Cost: 10
+  Level: 1
+
+DeadOrALife:
+  Cost: 10
+  Level: 1
+
+ExplodeBurst:
+  Cost: 10
+  Tick: 10
+  Level: 1
+
+RandomPotionThrow:
+  Cost: 10
+  Level: 1
+
+StopTheMove:
+  Cost: 10
+  Level: 1
+
+ThrowTNT:
+  Cost: 10
+  Level: 8
+
+Telekinesis:
+  Cost: 10
+  Level: 1
+
+UpKnockBack:
+  Cost: 10
+  Level: 1

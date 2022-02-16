@@ -1,0 +1,24 @@
+Items:
+  - DiamondSword
+  - DiamondHeart
+
+DiamondSword:
+  Name: だいやもんどそーど
+  Lore:
+    - これが
+    - おれの
+    - ほんきじゃ！
+  Enchant:
+    List:
+      - MENDING
+    MENDING:
+      Level: 1
+  Skill: ExplodeBurst
+  Material: DIAMOND_SWORD
+
+DiamondHeart:
+  Name: だいあもんどはーと
+  Lore:
+    - だいあもんどそーどの素材
+  Glow: true
+  Material: DIAMOND

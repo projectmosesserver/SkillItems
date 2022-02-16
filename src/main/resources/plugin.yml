@@ -1,0 +1,5 @@
+name: SkillItems
+version: '${project.version}'
+main: info.ahaha.skillitems.SkillItems
+api-version: 1.17
+depend: [LevelSystem]

@@ -1,0 +1,35 @@
+#
+#     First : 作業台の上の段のアイテム
+#     Second : 作業台の真ん中の段のアイテム
+#     Third : 作業台の下の段のアイテム
+#
+#     ※　もしもアイテムを必要しないマスがある場合はスペースを挟んでください
+#          例　:  "D D"
+#
+#     Type : Material | Item
+#     Item :
+#       Material ... アイテムＩＤ(大文字)　例　棒...(STICK)
+#       Item ...  items.ymlで作ったアイテムのＩＤ　例  DiamondSword
+#
+
+DiamondSword:
+  First: "DDD"
+  Second: " H "
+  Third: " S "
+  D:
+    Type: Material
+    Item: DIAMOND
+  H:
+    Type: Item
+    Item: DiamondHeart
+  S:
+    Type: Material
+    Item: STICK
+
+DiamondHeart:
+  First: "DDD"
+  Second: "   "
+  Third: "   "
+  D:
+    Type: Material
+    Item: DIAMOND
